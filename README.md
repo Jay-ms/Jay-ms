@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jay-ms&show_icons=true&theme=radical)
     
 ✨ Welcome to my homepage ✨
 
